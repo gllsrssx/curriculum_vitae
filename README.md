@@ -1,7 +1,7 @@
 # Gilles Rousseaux - Full Stack Developer
 
 <p align="center">
-  <img src="https://your-image-url.com" alt="Profile Picture">
+<!--   <img src="https://your-image-url.com" alt="Profile Picture"> -->
 </p>
 
 ## About Me
