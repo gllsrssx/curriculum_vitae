@@ -6,7 +6,9 @@
 
 ## About Me
 
-Are you looking for a skilled programmer who is passionate about coding and new technologies? Look no further! With a strong foundation in programming concepts and hands-on experience in developing software applications, I am confident in my ability to excel in any programming role. Let's work together to bring your programming projects to the next level!
+Are you looking for a skilled programmer who is passionate about coding and new technologies? Look no further! 
+
+With a strong foundation in programming concepts and hands-on experience in developing software applications, I am confident in my ability to excel in any programming role. Let's work together to bring your programming projects to the next level!
 
 ## Personal Information
 
