@@ -21,7 +21,7 @@ With a strong foundation in programming concepts and hands-on experience in deve
 ## Social Profiles
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gillesrousseaux)
-- GitHub: [GitHub Profile](https://github.com/G1-R0)
+- GitHub: [GitHub Profile](https://github.com/gllsrssx)
 - Spotify: [Spotify Profile](https://open.spotify.com/user/117959997?si=N1rWWC6UQwGBM2jQGnPaOA)
 - Discord: [Discord Profile](discordapp.com/users/246007764332052480)
 
