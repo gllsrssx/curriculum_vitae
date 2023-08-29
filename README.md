@@ -24,6 +24,7 @@ With a strong foundation in programming concepts and hands-on experience in deve
 - GitHub: [GitHub Profile](https://github.com/gllsrssx)
 - Spotify: [Spotify Profile](https://open.spotify.com/user/117959997?si=N1rWWC6UQwGBM2jQGnPaOA)
 - Discord: [Discord Profile](discordapp.com/users/gllsrssx)
+- Whatsapp: [Whatsapp Profile](https://wa.me/32473117171)
 
 ## Languages
 
