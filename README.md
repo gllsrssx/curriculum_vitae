@@ -14,16 +14,16 @@ With a strong foundation in programming concepts and hands-on experience in deve
 
 - **Address:** ..., Antwerp, 2018
 - **Date of Birth:** 10/05/1996, Ghent
-- **Nationality:** [Your Nationality]
+- **Nationality:** BE
 - **Driving License:** B, IS-001, IS-005
-- **Hobbies:** Technology, Netflix, travel, food, investing, gaming, culture.
+- **Hobbies:** Technology, Netflix, travel, food, investing, gaming, culture, Entrepreneurship.
 
 ## Social Profiles
 
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gillesrousseaux)
 - GitHub: [GitHub Profile](https://github.com/gllsrssx)
 - Spotify: [Spotify Profile](https://open.spotify.com/user/117959997?si=N1rWWC6UQwGBM2jQGnPaOA)
-- Discord: [Discord Profile](discordapp.com/users/246007764332052480)
+- Discord: [Discord Profile](discordapp.com/users/gllsrssx)
 
 ## Languages
 
@@ -34,42 +34,51 @@ With a strong foundation in programming concepts and hands-on experience in deve
 ## Skills
 
 - ★★★★☆ Full Stack Development
-- ★★★★☆ Continuous Learning
+- ★★★★★ Continuous Learning
 - ★★★★★ Problem Solving
-- ★★★☆☆ Project Management
+- ★★★★★ Project Management
 - ★★★★☆ Collaboration and Communication
 - ★★★★☆ Agile Methodologies
 - ★★★☆☆ DevOps
 
 ## Work Experience
 
-- **Assistant**
-  - **Kanryo Solutions, Antwerp**
+- **Project leader**
+  - **Kanryo Solutions**
   - *June 2018 – March 2020*
   - Responsibilities:
-    - Supervising events
-    - Woodwork and art logistics
+    - Led diverse projects to successful outcomes.
+    - Provided direct assistance and support to the executive team.
+    - Oversaw and coordinated events with a focus on efficiency.
+    - Managed art logistics, showcasing attention to detail.
+    - Showcased hands-on skills in woodwork projects.
+
+- **Hospitality Industry**
+  - **Multiple**
+  - *Years 2012-2018*
+  - Responsibilities:
+    - Worked in various roles within the hospitality sector, developing strong interpersonal and customer service skills.
 
 ## Education
 
 - **Full Stack Developer**
   - **Thomas More, Antwerp**
   - *September 2022 – June 2024*
-  - Graduated
+  - Graduate
 
 - **Full Stack Developer**
   - **AP, Antwerp**
   - *March 2020 – August 2022*
-  - Graduated
+  - Graduate
 
-- **Bioecological Construction**
+- **Bio-ecological Construction**
   - **Steinerschool, Lier**
   - *September 2014 – July 2018*
-  - High School Graduate
+  - High School
 
 ## Courses
 
-- **All Career Paths**
+- **Multiple Career Paths and IT courses**
   - **Codecademy**
   - *January 2023 – January 2024*
 
