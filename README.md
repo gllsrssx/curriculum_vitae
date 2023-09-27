@@ -16,7 +16,7 @@ With a strong foundation in programming concepts and hands-on experience in deve
 - **Date of Birth:** 10/05/1996, Ghent
 - **Nationality:** BE
 - **Driving License:** B, IS-001, IS-005
-- **Hobbies:** Technology, Netflix, travel, food, investing, gaming, culture, Entrepreneurship.
+- **Hobbies:** Technology, Netflix, travel, food, investing, gaming, culture, business.
 
 ## Social Profiles
 
