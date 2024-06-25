@@ -23,7 +23,7 @@ technologies and love to take programming projects to the next level.
 - [Email](mailto:gllsrssx.be)
 - [LinkedIn](https://www.linkedin.com/in/gllsrssx)
 - [GitHub](https://github.com/gllsrssx)
-- [Website](https://www.rssx.eu)
+- [Portfolio](https://www.rssx.eu)
 
 ## Languages
 
