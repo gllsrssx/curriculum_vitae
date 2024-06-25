@@ -19,11 +19,11 @@ technologies and love to take programming projects to the next level.
 
 ## Social Profiles
 
-- Whatsapp:  [Whatsapp](https://wa.me/32473117171)
-- Email:     [Whatsapp](mailto:gllsrssx.be)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gllsrssx)
-- GitHub: [GitHub](https://github.com/gllsrssx)
-- Website: [rssx](https://www.rssx.eu)
+- [WhatsApp](https://wa.me/32473117171)
+- [Email](mailto:gllsrssx.be)
+- [LinkedIn](https://www.linkedin.com/in/gllsrssx)
+- [GitHub](https://github.com/gllsrssx)
+- [Website](https://www.rssx.eu)
 
 ## Languages
 
