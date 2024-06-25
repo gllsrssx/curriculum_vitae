@@ -6,9 +6,8 @@
 
 ## About Me
 
-Are you looking for a skilled programmer who is passionate about coding and new technologies? Look no further! 
-
-With a strong foundation in programming concepts and hands-on experience in developing software applications, I am confident in my ability to excel in any programming role. Let's work together to bring your programming projects to the next level!
+Hello! I am Gilles, a passionate Full Stack Developer with a strong foundation in programming concepts and hands-on experience in developing software applications. I am always enthusiastic about new 
+technologies and love to take programming projects to the next level.
 
 ## Personal Information
 
@@ -20,27 +19,26 @@ With a strong foundation in programming concepts and hands-on experience in deve
 
 ## Social Profiles
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/gillesrousseaux)
-- GitHub: [GitHub Profile](https://github.com/gllsrssx)
-- Spotify: [Spotify Profile](https://open.spotify.com/user/117959997?si=N1rWWC6UQwGBM2jQGnPaOA)
-- Discord: [Discord Profile](discordapp.com/users/gllsrssx)
-- Whatsapp: [Whatsapp Profile](https://wa.me/32473117171)
+- Whatsapp:  [Whatsapp](https://wa.me/32473117171)
+- Email:     [Whatsapp](mailto:gllsrssx.be)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/gllsrssx)
+- GitHub: [GitHub](https://github.com/gllsrssx)
+- Website: [rssx](https://www.rssx.eu)
 
 ## Languages
 
-- ★★★★★ Nederlands
-- ★★★★☆ English
-- ★★☆☆☆ Français
+- Native Dutch 
+- Full professional English 
+- Basic French  
+- Starter Mandarin   
 
 ## Skills
 
-- ★★★★☆ Full Stack Development
-- ★★★★★ Continuous Learning
-- ★★★★★ Problem Solving
-- ★★★★★ Project Management
-- ★★★★☆ Collaboration and Communication
-- ★★★★☆ Agile Methodologies
-- ★★★☆☆ DevOps
+- Proficient in front-end and back-end web development. 
+- Experienced in server-side programming and database management. 
+- Skilled in version control and continuous integration/continuous deployment (CI/CD). 
+- Knowledgeable in web architecture, network protocols, and web security. 
+- Strong problem-solving, communication, adaptability, teamwork, and time management skills. 
 
 ## Work Experience
 
@@ -65,12 +63,12 @@ With a strong foundation in programming concepts and hands-on experience in deve
 - **Full Stack Developer**
   - **Thomas More, Antwerp**
   - *September 2022 – June 2024*
-  - Graduate
+  - University
 
 - **Full Stack Developer**
   - **AP, Antwerp**
   - *March 2020 – August 2022*
-  - Graduate
+  - University
 
 - **Bio-ecological Construction**
   - **Steinerschool, Lier**
