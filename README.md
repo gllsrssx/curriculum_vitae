@@ -6,8 +6,7 @@
 
 ## About Me
 
-Hello! I am Gilles, a passionate Full Stack Developer with a strong foundation in programming concepts and hands-on experience in developing software applications. I am always enthusiastic about new 
-technologies and love to take programming projects to the next level.
+Hello! I am Gilles, a passionate Full Stack Developer with a strong foundation in programming concepts and hands-on experience in developing software applications. I am always enthusiastic about new technologies and love to take projects a higher level.
 
 ## Personal Information
 
